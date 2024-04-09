@@ -137,3 +137,14 @@ const userObject: CommonUser = {
   email: "someone@gmail.com",
   age: 27,
 };
+
+
+
+
+// index signature 
+interface StringArray {
+  [index: number]: string;
+}
+
+const myArray: StringArray = getStringArray();
+const secondItem = myArray[1];
