@@ -1,4 +1,4 @@
 const namesa: string[] = [];
-names.push("Dylan");
+namesa.push("Dylan");
 
 console.log(namesa);
