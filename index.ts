@@ -1,4 +1,4 @@
-let age = "twentyeight";
+let age1:String = "twentyeight";
 // age = 28;    #in ts, can't just change the type of value when re-assiging
 
 let myAge: Number = 28; // a type provided or not, can't change value type latter in any use
